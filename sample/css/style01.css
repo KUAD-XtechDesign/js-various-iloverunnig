@@ -119,7 +119,7 @@ stroke:rgb(255, 255, 255); stroke: width 10px;
     fill:transparent;
     stroke-dasharray:1420px;
      stroke-dashoffset:1425px; animation:anim 5s 
-     ease-in 5s 
+     ease-in 0s 
      forwards;}
   @keyframes anim{
   0%{stroke-dashoffset:1425px;}
