@@ -115,7 +115,7 @@ header ul li{
 
 #intro{
 
-stroke:rgb(255, 255, 255); stroke: width 10px; 
+stroke:rgb(243, 241, 241); stroke: width 10px; 
     fill:transparent;
     stroke-dasharray:1420px;
      stroke-dashoffset:1425px; animation:anim 5s 
