@@ -120,7 +120,7 @@ footer div p{
 #takahiro{stroke:rgb(255, 249, 249); stroke-width:1px; 
   fill:transparent;
   stroke-dasharray:1420px;
-   stroke-dashoffset:1425px; animation:anim 2s ease-in 0s forwards;}
+   stroke-dashoffset:1425px; animation:anim 9s ease-in 0s forwards;}
 @keyframes anim{
 0%{stroke-dashoffset:1425px;}
 30%{fill:transparent;}

@@ -114,17 +114,17 @@ header ul li{
 
 
 #intro{
-  position: fixed;
-  display: flex;
-  z-index: 101;
-  background-color: #000;
-  width: 100%;
-  height: 100%;
-  color: #fff;
-  font-family: serif;
-  font-size: 20px;
-  align-items: center;
-  justify-content: center;
-  top: 0;
+
+stroke:rgb(255, 249, 249); stroke-width:1px; 
+    fill:transparent;
+    stroke-dasharray:1420px;
+     stroke-dashoffset:1425px; animation:anim 9s ease-in 0s forwards;}
+  @keyframes anim{
+  0%{stroke-dashoffset:1425px;}
+  30%{fill:transparent;}
+  60%{stroke-dashoffset:0;}
+  100%{stroke-dashoffset:0; fill:#fffbfb;}
+  }
+  
 }
 
