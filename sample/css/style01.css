@@ -115,7 +115,7 @@ header ul li{
 
 #intro{
 
-stroke:rgb(255, 249, 249); stroke-width:1px; 
+stroke:rgb(252, 4, 4); stroke-width:1px; 
     fill:transparent;
     stroke-dasharray:1420px;
      stroke-dashoffset:1425px; animation:anim 9s ease-in 0s forwards;}
@@ -126,5 +126,5 @@ stroke:rgb(255, 249, 249); stroke-width:1px;
   100%{stroke-dashoffset:0; fill:#fffbfb;}
   }
   
-}
+
 
