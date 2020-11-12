@@ -1,6 +1,6 @@
 
 html,body,#contents,.wrapper,#back{
-  background-color: #001219;
+  background-color: #39abd8;
   height: 100%;
   width: 100%;
   position: relative;
@@ -115,10 +115,12 @@ header ul li{
 
 #intro{
 
-stroke:rgb(252, 4, 4); stroke-width:1px; 
+stroke:rgb(0, 0, 0); stroke: width 10px; 
     fill:transparent;
     stroke-dasharray:1420px;
-     stroke-dashoffset:1425px; animation:anim 9s ease-in 0s forwards;}
+     stroke-dashoffset:1425px; animation:anim 30s 
+     ease-in 5s 
+     forwards;}
   @keyframes anim{
   0%{stroke-dashoffset:1425px;}
   30%{fill:transparent;}
